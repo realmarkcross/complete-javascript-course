@@ -1,2 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
-node_modules/
+/.idea/workspace.xml
+/.idea/Advanced CSS and Sass - Flexbox-Grid-Animations.iml
+/.idea/modules.xml
+
+
+/node_modules/
